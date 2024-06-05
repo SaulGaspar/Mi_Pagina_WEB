@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #e20026;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #fff;
+}
+.title{
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.subtitle{
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.input{
+    width: 90%;
+    padding: 10px;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 0.539);
+    border-radius: 7px;
+    border-style:solid;
+}
+.button{
+    width: 19vw;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 7px;
+    background-color: #a10b5e;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Operaciones{
+    display: flex;
+}

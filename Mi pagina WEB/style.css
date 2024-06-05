@@ -1,0 +1,75 @@
+
+#title
+{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: Arial;
+}
+.subtitulos
+{
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 235, 211);
+}
+.Styled-Class
+{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: Arial, bold, sans-serif;
+    min-width: 500px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+}
+
+.Styled-Class thead tr
+{
+background-color: rgb(89, 0, 255);
+color: beige;
+text-align: middle;
+font: arial;
+color: black;
+}
+
+.Styled-Class th 
+.Styled-Class td
+{
+    padding: 30px;
+}
+.Styled-Class tbody tr :nth-of-type(event)
+{
+    background-color: #fd7d7d;
+}
+li
+{
+    color: rgba(0, 0, 0, 0.801);
+    font-size: 15px;
+    font-weight: Arial;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 70%;
+    border: 3px solid #d80303;
+    box-shadow: 0 0 10px rgba(161, 32, 32, 0.5);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #d4252596;
+}
+
+li
+{
+    font-weight: Arial;
+    color: black;
+    margin: 5px 0;
+}
